@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Computer_vision_project/Yolo_v8_Object_Detection/train/images
+val: /content/drive/MyDrive/Computer_vision_project/Yolo_v8_Object_Detection/train/images
+
+nc: 5
+names: ["Helmet", "Goggles", "Jacket", "Gloves", "Footwear"]
